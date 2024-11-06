@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/7Vw9cBg/1.jpg",
+      "title": "Mastering Digital Marketing in 2024",
+      "author": "Alex Johnson",
+      "author_img": "https://i.ibb.co.com/QJvt8F0/boy1.png",
+      "posted_date": "2024-10-01",
+      "reading_time": 8,
+      "hashtags": ["#DigitalMarketing", "#2024Trends", "#MarketingTips"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/tcGvLfY/2.png",
+      "title": "SEO Best Practices for New Websites",
+      "author": "Emily Carter",
+      "author_img": "https://i.ibb.co.com/YZ06c0h/boy2.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 6,
+      "hashtags": ["#SEO", "#WebDevelopment", "#SearchEngine"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/ynHYnC1/3.png",
+      "title": "Content Marketing Strategies That Work",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/WVJSJrz/girl1.jpg",
+      "posted_date": "2024-08-10",
+      "reading_time": 10,
+      "hashtags": ["#ContentMarketing", "#MarketingStrategy", "#BrandBuilding"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/WFpq10m/4.jpg",
+      "title": "Social Media Marketing: Dos and Don'ts",
+      "author": "Jessica Martinez",
+      "author_img": "https://i.ibb.co.com/WgXQc2F/girl2.jpg",
+      "posted_date": "2024-07-22",
+      "reading_time": 7,
+      "hashtags": ["#SocialMedia", "#SMM", "#Marketing101"]
+    }
+
+  ]
+  
